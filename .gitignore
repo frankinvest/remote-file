@@ -1,0 +1,4 @@
+node_modules/
+.frank-invest-blog.db.json
+public/
+.deploy_git/
